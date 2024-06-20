@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|c:\\users\\ctcde\\source\\repos\\crudpedido\\crudpedido\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|solutionrelative:crudpedido\\models\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|c:\\users\\ctcde\\source\\repos\\crudpedido\\crudpedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|solutionrelative:crudpedido\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|c:\\users\\ctcde\\source\\repos\\crudpedido\\crudpedido\\managers\\pedidomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|solutionrelative:crudpedido\\managers\\pedidomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|c:\\users\\ctcde\\source\\repos\\crudpedido\\crudpedido\\requests\\pedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|solutionrelative:crudpedido\\requests\\pedidorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|c:\\users\\ctcde\\source\\repos\\crudpedido\\crudpedido\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|solutionrelative:crudpedido\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|c:\\users\\ctcde\\source\\repos\\crudpedido\\crudpedido\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02046033-0BEB-4A54-A8A9-941776672339}|CrudPedido\\CrudPedido.csproj|solutionrelative:crudpedido\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudPedido\\appsettings.json",
+              "ToolTip": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\appsettings.json",
+              "RelativeToolTip": "CrudPedido\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-20T13:45:22.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "CrudPedido\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "CrudPedido\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:22:45.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Requests\\PedidoRequest.cs",
+              "RelativeDocumentMoniker": "CrudPedido\\Requests\\PedidoRequest.cs",
+              "ToolTip": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Requests\\PedidoRequest.cs",
+              "RelativeToolTip": "CrudPedido\\Requests\\PedidoRequest.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowCIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T14:07:27.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PedidoManager.cs",
+              "DocumentMoniker": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Managers\\PedidoManager.cs",
+              "RelativeDocumentMoniker": "CrudPedido\\Managers\\PedidoManager.cs",
+              "ToolTip": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Managers\\PedidoManager.cs",
+              "RelativeToolTip": "CrudPedido\\Managers\\PedidoManager.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAkwOkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:51:08.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Program.cs",
+              "RelativeDocumentMoniker": "CrudPedido\\Program.cs",
+              "ToolTip": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Program.cs",
+              "RelativeToolTip": "CrudPedido\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:45:16.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Models\\Pedido.cs",
+              "RelativeDocumentMoniker": "CrudPedido\\Models\\Pedido.cs",
+              "ToolTip": "C:\\Users\\ctcde\\source\\repos\\CrudPedido\\CrudPedido\\Models\\Pedido.cs",
+              "RelativeToolTip": "CrudPedido\\Models\\Pedido.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCMAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:43:25.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
